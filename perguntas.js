@@ -1,23 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Vingadores',
+    'Qual vilão matou sua filha por uma jóia com poderes?',
+    'Thanos'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Liga da Justiça',
+    'Qual herói tem uma capa preta e roupa de morcego?',
+    'Batman'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Nanatsu no Taizai',
+    'Quem tem o poder que manipula os sentimentos das pessoas?',
+    'Gowther'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Kimetsu no Yaiba',
+    'Quem matou Genya Shinazugawa?',
+    'Kokushibou'
+)
+
+criaCartao(
+    'Death Note',
+    'Quem matou o L?',
+    'Shinigami Rem'
+)
+
+criaCartao(
+    'Jujutsu Kaisen',
+    'Quem é o Rei das Maldições?',
+    'Sukuna'
 )
